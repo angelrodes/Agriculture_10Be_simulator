@@ -25,7 +25,8 @@ Also, a red line illustrates the Be-10 profile we would reconstruct from that sa
 
 ## Output
 
-The script generates [this video](https://youtu.be/V5eV1DUaHhw).
+The script generates [this video](https://youtu.be/V5eV1DUaHhw):
+
 [![Agriculture_10Be_simulator](https://img.youtube.com/vi/V5eV1DUaHhw/0.jpg)](https://www.youtube.com/watch?v=V5eV1DUaHhw)
 
 ## More info
