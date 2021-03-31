@@ -31,7 +31,7 @@ The script generates [this video](https://youtu.be/V5eV1DUaHhw):
 
 ## More info
 
-I will create a post illusrated by this model in [my blog](https://angelrodes.wordpress.com/blog-2/).
+There is a post illusrated by this model in [my blog](https://angelrodes.wordpress.com/2021/03/31/agriculture-be-10-simulator/).
 
 ## Licence
 
