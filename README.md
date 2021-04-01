@@ -1,4 +1,4 @@
-# Agriculture_10Be_simulator
+# Agriculture Be-10 simulator
 This MATLAB code generates a video to simulate the Be-10 accumulation in arable soils
 
 ## Model evolution
